@@ -1,0 +1,7 @@
+- Variables: Una variable es una cajita donde se almacena cosas que más adelante usaremos. 
+- Strings: Son una palabras o números que se escriben entre comillas. 
+- Funciones: Son objetos que se construyen para más adelante llamarlos o invocarlos. 
+     - Argumentos: Los argumentos son como variables, son cajitas que guardan algo en su interior pero son características de una función.
+     - Return: Es una forma de escape de los datos de una función, 'return' devuelve siempre algo, se lo usa cuando no se quiere usar 'console.log'
+- Declaraciones (if): Con la función condicional 'if' se la usa para tomar decisiones y una vez que tome esas decisiones podrá dar como resultado si algo es verdadero o falso caso contrario realiza otra acción.
+- Valores booleanos: Estos valores tienen dos opciones para decir si o no, verdadero o falso, 0 ó 1. 
